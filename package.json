@@ -1,0 +1,22 @@
+{
+  "name": "memory_cards",
+  "version": "1.0.0",
+  "description": "Mini JS app allows you to memorize things",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/Memory-Cards.git"
+  },
+  "author": "Nover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/Memory-Cards/issues"
+  },
+  "homepage": "https://novailoveyou.github.io/Memory-Cards",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
